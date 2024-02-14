@@ -118,3 +118,5 @@ This Image Captioning Model demonstrates a sophisticated approach to generating 
 
 
 Last updated on: 2024-02-13
+
+Last updated on: 2024-02-14
